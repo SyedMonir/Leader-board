@@ -1,6 +1,5 @@
 body {
-    background-color: 
-    #F3F1FF;
+    background-color: #F3F1FF;
 }
 
 .navbar img {
@@ -12,7 +11,47 @@ body {
 }
 
 .heading {
-    color:#562EFF;
-
+    color: #562EFF;
+    padding-bottom: 20px;
 }
 
+.player img {
+    width: 56px;
+}
+
+.player-name {
+    padding-left: 10px;
+}
+
+main {
+    max-width: 870px;
+}
+
+.top-blog img {
+    width: 177px;
+    height: 117px;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px darkgray;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.by-name {
+    color: #562EFF;
+}
+
+.card-text img {
+    width: 16px;
+    height: 16px;
+}
+
+
+.time {
+    background: #FEE5DF;
+    color: #ED6B4F;
+    border-radius: 10px;
+    padding: 2px 10px;
+}
